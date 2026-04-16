@@ -1,12 +1,12 @@
 [
   {
-    "fileName": "tlc_switch-1.1.2-0fbd5488.zigbee",
+    "fileName": "tlc_switch-1.1.2-0d5ded38.zigbee",
     "fileVersion": 285356032,
-    "fileSize": 180994,
-    "url": "https://github.com/fantomc/tuya-zigbee-switch/raw/d617e530d928f3f22019d51a8c6aedd2e6dd88a0/bin/router/MODULE_FARYLINK_TS0001/tlc_switch-1.1.2-0fbd5488.zigbee",
+    "fileSize": 180978,
+    "url": "https://github.com/fantomc/tuya-zigbee-switch/raw/refs/heads/main/bin/router/MODULE_FARYLINK_TS0001/tlc_switch-1.1.2-0d5ded38.zigbee",
     "imageType": 43591,
     "manufacturerCode": 4417,
-    "sha512": "5ec944914228b983e69576a52c290b8cb610a4bca1a057d3c777af253c0adc6f4e4191264e0121beb38538deafadf8ff6f68454bf87ca215a56c1345e3b8e5c8",
+    "sha512": "cd7264f1f7e93adcc832536a19a583328d20392991ee4d8da469b9f683c8d680b19f2a04269a34a5b45378da8643727ae2a4335c7af0a839cbbb9270ab8f7fc4",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
       "_TZ3000_fdxihpp7",
@@ -14,13 +14,13 @@
     ]
   },
   {
-    "fileName": "tlc_switch-1.1.2-0fbd5488-from_tuya.zigbee",
+    "fileName": "tlc_switch-1.1.2-0d5ded38-from_tuya.zigbee",
     "fileVersion": 4294967295,
-    "fileSize": 180994,
-    "url": "https://github.com/fantomc/tuya-zigbee-switch/raw/d617e530d928f3f22019d51a8c6aedd2e6dd88a0/bin/router/MODULE_FARYLINK_TS0001/tlc_switch-1.1.2-0fbd5488-from_tuya.zigbee",
+    "fileSize": 180978,
+    "url": "https://github.com/fantomc/tuya-zigbee-switch/raw/refs/heads/main/bin/router/MODULE_FARYLINK_TS0001/tlc_switch-1.1.2-0d5ded38-from_tuya.zigbee",
     "imageType": 517,
     "manufacturerCode": 4107,
-    "sha512": "055de199da576f7292665638f978c42c40c72e5276f121df96e5cdaeab45aad12804829855ba5be422924ddb68997cd6d61d0ae241673dd5643dfdff4a0ce11d",
+    "sha512": "eff9b8f33c46085df4009f140f98b75ee9f62c967da2791e0810ef070d3c279b1b291ffe1d9584904fd93caa092f1a5aa15732d0ae167997126daa1109eeab6b",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
       "_TZ3000_fdxihpp7",
