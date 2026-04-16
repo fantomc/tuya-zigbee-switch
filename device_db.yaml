@@ -13,3 +13,30 @@
 # - Keep KEYs in (mostly) alphabetical order
 # - Keep attributes in the same order
 
+MODULE_FARYLINK_TS0001:
+  human_name: Farylink FS-02Z
+  category: module
+  power: mains
+  neutral: required
+  output: relay
+  device_type: router
+  stock_model_name: TS0001
+  stock_manufacturer_name: _TZ3000_fdxihpp7
+  stock_converter_manufacturer: Tuya
+  stock_converter_model: WHD02
+  override_z2m_device: null
+  tuya_module: ZT2S_real_no_shield
+  mcu_family: Telink
+  mcu: TLSR8258
+  config_str: fdxihpp7;WHD02-FS02Z;BD2u;LB4i;SB5u;RC3;
+  alt_config_str: null
+  old_manufacturer_names: null
+  old_zb_models: null
+  stock_manufacturer_id: 4107
+  stock_image_type: 517
+  firmware_image_type: 43591
+  build: yes
+  status: in_progress
+  info: Stops responding after OTA update?
+  threads: https://github.com/romasku/tuya-zigbee-switch/pull/243
+  store: https://www.aliexpress.com/item/1005006908878393.html
