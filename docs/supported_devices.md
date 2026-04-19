@@ -42,5 +42,6 @@ Support new devices: [contribute/porting.md](/docs/contribute/porting.md)
 | 🚧 | 📦 | 💡 | ⚡️ | 📲 |  🏭  | Zb&nbsp;Manufacturer <br> Zb&nbsp;Model | Name <br> Z2M&nbsp;page&nbsp;🔗 | Store | Threads | Status |
 | -- | -- | -- | -- | -- | :--: | :-------------------------------------- | :------------------------------ | ----: | ------: | :----- |
 | 🟧 | ✔️ | 🇲 | 🔌 | 🛜 | **TL** | `_TZ3000_fdxihpp7` <br> `TS0001` | [Farylink FS-02Z](https://www.zigbee2mqtt.io/devices/WHD02.html) | [`AlEx`](https://www.aliexpress.com/item/1005006908878393.html) | [`#243`](https://github.com/romasku/tuya-zigbee-switch/pull/243) | Stops responding after OTA update? | 
+| 🟧 | ✔️ | 🇲 | 🔌 | 🛜 | **TL** | `_TZ3000_6ygjfyll` <br> `TS0202` | [V08](https://www.zigbee2mqtt.io/devices/IH012-RT01.html) | [`AlEx`](https://www.aliexpress.com/item/1005006908878393.html) | [`#243`](https://github.com/romasku/tuya-zigbee-switch/pull/243) | Stops responding after OTA update? | 
 
 Data from [`device_db.yaml`](/device_db.yaml)
