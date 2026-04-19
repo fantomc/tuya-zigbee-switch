@@ -40,3 +40,30 @@ MODULE_FARYLINK_TS0001:
   info: Stops responding after OTA update?
   threads: https://github.com/romasku/tuya-zigbee-switch/pull/243
   store: https://www.aliexpress.com/item/1005006908878393.html
+MODULE_V08:
+  human_name: V08
+  category: module
+  power: mains
+  neutral: required
+  output: relay
+  device_type: router
+  stock_model_name: TS0202
+  stock_manufacturer_name: _TZ3000_6ygjfyll
+  stock_converter_manufacturer: Tuya
+  stock_converter_model: IH012-RT01
+  override_z2m_device: null
+  tuya_module: none
+  mcu_family: Telink
+  mcu: TLSR8253F512AT32
+  config_str: 6ygjfyll;V08;BC0u;LB4;SD7u;
+  alt_config_str: null
+  old_manufacturer_names: null
+  old_zb_models: null
+  stock_manufacturer_id: 4107
+  stock_image_type: 517
+  firmware_image_type: 43591
+  build: yes
+  status: in_progress
+  info: Stops responding after OTA update?
+  threads: https://github.com/romasku/tuya-zigbee-switch/pull/243
+  store: https://www.aliexpress.com/item/1005006908878393.html
