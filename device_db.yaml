@@ -54,7 +54,7 @@ MODULE_V08:
   override_z2m_device: null
   tuya_module: none
   mcu_family: Telink
-  mcu: TLSR8253F512AT32
+  mcu: TLSR8258
   config_str: 6ygjfyll;V08;BC0u;LB4;SD7u;
   alt_config_str: null
   old_manufacturer_names: null
