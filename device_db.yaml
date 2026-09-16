@@ -3932,7 +3932,7 @@ REMOTE_TUYA_TS0044:
   stock_manufacturer_id: null
   stock_image_type: null
   firmware_image_type: 43577
-  build: no
+  build: yes
   status: fully_supported
   info: Supported
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/171
@@ -6443,30 +6443,3 @@ SWITCH_ZEMISMART_TS0601_6GANG:
   info: Needs pinout. Secondary MCU. 6-gang!
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/209
   store: https://www.zemismart.com/products/tb26-6
-REMOTE_TUYA_TS0043:
-  human_name: Tuya/Moes 3-button wireless switch 🅰
-  category: remote
-  power: CR2430
-  neutral: without
-  output: nothing
-  device_type: end_device
-  stock_model_name: TS0043
-  stock_manufacturer_name: _TZ3000_wkai3ga5
-  stock_converter_manufacturer: Tuya
-  stock_converter_model: TS0043
-  override_z2m_device: null
-  tuya_module: ZS3L
-  mcu_family: Silabs
-  mcu: EFR32MG21A020F768IM32
-  config_str: wkai3ga5;TS0043-TUYA;SA4d;IC0i;SB0d;ID1i;SA3d;IC2i;BTA0;M;
-  alt_config_str: null
-  old_manufacturer_names: null
-  old_zb_models: null
-  stock_manufacturer_id: null
-  stock_image_type: null
-  firmware_image_type: 43577
-  build: yes
-  status: fully_supported
-  info: Supported
-  threads: https://github.com/romasku/tuya-zigbee-switch/issues/171
-  store: null
