@@ -40,3 +40,33 @@ REMOTE_TUYA_TS0043:
   info: Supported
   threads: https://github.com/romasku/tuya-zigbee-switch/issues/171
   store: null
+MODULE_IHSENO_TS0004:
+  human_name: iHseno 3-gang
+  category: module
+  power: mains
+  neutral: required
+  output: nothing
+  device_type: router
+  stock_model_name: TS0004
+  stock_manufacturer_name: _TZ3000_knoj8lpf
+  stock_converter_manufacturer: Tuya
+  stock_converter_model: TS0004_switch_module_2
+  override_z2m_device: _TZ3000_knoj8lpf
+  tuya_module: ZTU
+  mcu_family: Telink
+  mcu: TLSR8258
+  config_str: knoj8lpf;TS0004-IHS-F;BC3u;LC2i;SD4u;SB4u;SD7u;
+  alt_config_str: null
+  old_manufacturer_names:
+  - TS0004-IHS-F
+  old_zb_models: null
+  stock_manufacturer_id: 4417
+  stock_image_type: 54179
+  firmware_image_type: 43548
+  build: yes
+  status: fully_supported
+  info: Supported
+  threads: https://github.com/romasku/tuya-zigbee-switch/issues/105
+  store: 
+    - https://www.aliexpress.com/item/1005008107698143.html
+    - https://www.aliexpress.com/item/1005010559698949.html
