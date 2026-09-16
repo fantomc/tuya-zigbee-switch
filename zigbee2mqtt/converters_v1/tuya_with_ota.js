@@ -32,7 +32,7 @@ const tuyaModels = [
     "TS0002",
     "TS0003",
     "TS0004",
-    "TS0044",
+    "TS0043",
     "TS0726_3_gang",
 ];
 

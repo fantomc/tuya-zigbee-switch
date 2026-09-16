@@ -1,16 +1,16 @@
 [
   {
-    "fileName": "tlc_switch-1.1.3-1ab1fb78.zigbee",
+    "fileName": "tlc_switch-1.1.3-e973477c.zigbee",
     "fileVersion": 285421568,
-    "fileSize": 178094,
-    "url": "https://github.com/fantomc/tuya-zigbee-switch/raw/fa3c1de98fd6b5f65d80cce3aa034a0d5bce7439/bin/end_device/REMOTE_TUYA_TS0044_END_DEVICE/tlc_switch-1.1.3-1ab1fb78.zigbee",
+    "fileSize": 178110,
+    "url": "https://github.com/fantomc/tuya-zigbee-switch/raw/refs/heads/main/bin/end_device/REMOTE_TUYA_TS0043_END_DEVICE/tlc_switch-1.1.3-e973477c.zigbee",
     "imageType": 43577,
     "manufacturerCode": 4169,
-    "sha512": "462cfc262f3277b73a7ea06def52a16a1223385613e7d7247c9c02f134a5dbb90168a84545d201aa654cdd95051a2fc2590662b66e139d797721f0f810ebef46",
+    "sha512": "1ec3f7077dbcab9aecc5d2dd27854a99a7639d6e9832251fbd01f92d9688d4ba68dac87742679784445f84939d93935a12b7075452134d9a78ac8fe5fc53f66b",
     "otaHeaderString": "Custom zigbee firmware\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
-      "_TZ3000_wkai4ga5",
-      "wkai4ga5"
+      "_TZ3000_wkai3ga5",
+      "wkai3ga5"
     ]
   }
 ]
