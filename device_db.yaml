@@ -38,7 +38,7 @@ REMOTE_TUYA_TS0043:
   build: yes
   status: fully_supported
   info: Supported
-  threads: https://github.com/romasku/tuya-zigbee-switch/issues/171
+  threads: null
   store: null
 MODULE_IHSENO_TS0004:
   human_name: iHseno 3-gang
@@ -70,3 +70,30 @@ MODULE_IHSENO_TS0004:
   store: 
     - https://www.aliexpress.com/item/1005008107698143.html
     - https://www.aliexpress.com/item/1005010559698949.html
+ZS3L_ROUTER:
+  human_name: ROUTER
+  category: remote
+  power: CR2430
+  neutral: without
+  output: nothing
+  device_type: router
+  stock_model_name: ROUTER
+  stock_manufacturer_name: ROUTER
+  stock_converter_manufacturer: Tuya
+  stock_converter_model: TS0043
+  override_z2m_device: null
+  tuya_module: ZS3L
+  mcu_family: Silabs
+  mcu: EFR32MG21A020F768IM32
+  config_str: router;ROUTER-ZS3L;BA4d;
+  alt_config_str: null
+  old_manufacturer_names: null
+  old_zb_models: null
+  stock_manufacturer_id: null
+  stock_image_type: null
+  firmware_image_type: 43577
+  build: yes
+  status: fully_supported
+  info: Supported
+  threads: null
+  store: null
