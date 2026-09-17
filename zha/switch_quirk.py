@@ -233,6 +233,7 @@ CONFIGS = [
     "wkai3ga5;TS0043-TUYA;SA4d;IC0i;SB0d;ID1i;SA3d;IC2i;BTA0;M;",
     "knoj8lpf;TS0004-IHS-F;BC3u;LC2i;SD4u;SB4u;SD7u;",
     "TS0004-IHS-F;TS0004-IHS-F;BC3u;LC2i;SD4u;SB4u;SD7u;",
+    "router;ROUTER-ZS3L;BA4d;",
 ]
 
 for config in CONFIGS:

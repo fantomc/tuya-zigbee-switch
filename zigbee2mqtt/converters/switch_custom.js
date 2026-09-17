@@ -575,6 +575,26 @@ const definitions = [
         },
         ota: true,
     },
+    {
+        zigbeeModel: [
+            "ROUTER-ZS3L",
+        ],
+        model: "TS0043",
+        vendor: "Tuya-custom",
+        description: "Custom switch (https://github.com/romasku/tuya-zigbee-switch)",
+        extend: [
+            deviceEndpoints({ endpoints: {} }),
+            romasku.deviceConfig("device_config", ""),
+            romasku.multiPressResetCount("multi_press_reset_count", ""),
+        ],
+        meta: { multiEndpoint: true },
+        configure: async (device, coordinatorEndpoint, logger) => {
+
+
+
+        },
+        ota: true,
+    },
 ];
 
 module.exports = definitions;
