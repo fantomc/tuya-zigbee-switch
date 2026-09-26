@@ -105,14 +105,14 @@ REMOTE_TUYA_SWITCH_TS0043_1:
   output: nothing
   device_type: end_device
   stock_model_name: TS0043
-  stock_manufacturer_name: _TZ3000_wkai3ga5
+  stock_manufacturer_name: _TZ3000_sj7jbgks
   stock_converter_manufacturer: Tuya
   stock_converter_model: TS0043
   override_z2m_device: null
   tuya_module: ZT3L
   mcu_family: Telink
   mcu: TLSR8258
-  config_str: fantom;TS0043-TUYA1;SC2d;ID7i;SB4d;IC0i;SC3d;IA0i;BTD2;M;
+  config_str: sj7jbgks;TS0043-MB;SC2d;ID7i;SB4d;IC0i;SC3d;IA0i;BTD2;M;
   alt_config_str: null
   old_manufacturer_names: null
   old_zb_models: null
