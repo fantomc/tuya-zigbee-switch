@@ -112,7 +112,7 @@ REMOTE_TUYA_SWITCH_TS0043_1:
   tuya_module: ZT3L
   mcu_family: Telink
   mcu: TLSR8258
-  config_str: wkai3ga5;TS0043-TUYA;SC2d;ID7i;SB4d;IC0i;SC3d;IA0i;BTD2;M;
+  config_str: fantom;TS0043-TUYA1;SC2d;ID7i;SB4d;IC0i;SC3d;IA0i;BTD2;M;
   alt_config_str: null
   old_manufacturer_names: null
   old_zb_models: null
