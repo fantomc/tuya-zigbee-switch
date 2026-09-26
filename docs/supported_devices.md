@@ -41,9 +41,9 @@ Support new devices: [contribute/porting.md](/docs/contribute/porting.md)
 
 | 🚧 | 📦 | 💡 | ⚡️ | 📲 |  🏭  | Zb&nbsp;Manufacturer <br> Zb&nbsp;Model | Name <br> Z2M&nbsp;page&nbsp;🔗 | Store | Threads | Status |
 | -- | -- | -- | -- | -- | :--: | :-------------------------------------- | :------------------------------ | ----: | ------: | :----- |
-| 🟩 | ✔️ | 🇷 | 🔋 | ➿ | **SL** | `_TZ3000_wkai3ga5` <br> `TS0043` | [Tuya/Moes 3-button wireless switch 🅰](https://www.zigbee2mqtt.io/devices/TS0043.html) |   |   | Supported | 
-| 🟩 | ✔️ | 🇲 | 🔌 | 🛜 | **TL** | `_TZ3000_knoj8lpf` <br> `TS0004` | [iHseno 3-gang](https://www.zigbee2mqtt.io/devices/_TZ3000_knoj8lpf.html) | [`AlEx`](https://www.aliexpress.com/item/1005008107698143.html) [`AlEx`](https://www.aliexpress.com/item/1005010559698949.html) | [`#105`](https://github.com/romasku/tuya-zigbee-switch/issues/105) | Supported | 
-| 🟩 | ✔️ | 🇷 | 🔋 | ➿ | **SL** | `ROUTER` <br> `ROUTER` | [ROUTER](https://www.zigbee2mqtt.io/devices/TS0043.html) |   |   | Supported | 
+| 🟩 | ❌️ | 🇷 | 🔋 | ➿ | **SL** | `_TZ3000_wkai3ga5` <br> `TS0043` | [Tuya/Moes 3-button wireless switch 🅰](https://www.zigbee2mqtt.io/devices/TS0043.html) |   |   | Supported | 
+| 🟩 | ❌️ | 🇲 | 🔌 | 🛜 | **TL** | `_TZ3000_knoj8lpf` <br> `TS0004` | [iHseno 3-gang](https://www.zigbee2mqtt.io/devices/_TZ3000_knoj8lpf.html) | [`AlEx`](https://www.aliexpress.com/item/1005008107698143.html) [`AlEx`](https://www.aliexpress.com/item/1005010559698949.html) | [`#105`](https://github.com/romasku/tuya-zigbee-switch/issues/105) | Supported | 
+| 🟩 | ❌️ | 🇷 | 🔋 | ➿ | **SL** | `ROUTER` <br> `ROUTER` | [ROUTER](https://www.zigbee2mqtt.io/devices/TS0043.html) |   |   | Supported | 
 | 🟩 | ✔️ | 🇷 | 🔋 | 🛜 | **TL** | `_TZ3000_sj7jbgks` <br> `TS0043` | [Tuya/Moes 3-gang scene switch 🅱](https://www.zigbee2mqtt.io/devices/TS0043.html) |   |   | Supported | 
 
 Data from [`device_db.yaml`](/device_db.yaml)
