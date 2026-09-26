@@ -598,7 +598,7 @@ const definitions = [
     },
     {
         zigbeeModel: [
-            "TS0043-TUYA1",
+            "TS0043-MB",
         ],
         model: "TS0043",
         vendor: "Tuya-custom",

@@ -424,11 +424,11 @@
       ]
     }
   ],
-  "fantom": [
+  "sj7jbgks": [
     {
       "description": "Custom switch (https://github.com/romasku/tuya-zigbee-switch)",
       "modelNames": [
-        "TS0043-TUYA1"
+        "TS0043-MB"
       ],
       "options": {
         "endpointName": {
@@ -440,7 +440,7 @@
     },
     {
       "modelNames": [
-        "TS0043-TUYA1"
+        "TS0043-MB"
       ],
       "exposes": [
         "multiPressResetCount"
@@ -465,7 +465,7 @@
     },
     {
       "modelNames": [
-        "TS0043-TUYA1"
+        "TS0043-MB"
       ],
       "exposes": [
         "pressAction",
@@ -608,7 +608,7 @@
     },
     {
       "modelNames": [
-        "TS0043-TUYA1"
+        "TS0043-MB"
       ],
       "exposes": [
         "relayIndicatorMode",
