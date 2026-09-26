@@ -1,12 +1,12 @@
 [
   {
-    "fileName": "tlc_switch-1.1.3-23cdd979.zigbee",
+    "fileName": "tlc_switch-1.1.3-c0f96806.zigbee",
     "fileVersion": 285421568,
     "fileSize": 182210,
-    "url": "https://github.com/fantomc/tuya-zigbee-switch/raw/045059de5abfe477ab1cd1528dedf3f81d5a4910/bin/router/MODULE_IHSENO_TS0004/tlc_switch-1.1.3-23cdd979.zigbee",
+    "url": "https://github.com/fantomc/tuya-zigbee-switch/raw/refs/heads/main/bin/router/MODULE_IHSENO_TS0004/tlc_switch-1.1.3-c0f96806.zigbee",
     "imageType": 43548,
     "manufacturerCode": 4417,
-    "sha512": "e261383fcc6d87c2b4589d85b86c90c9873e85eef3f618772fc0720fc1f9ddd3b35a69639c90c24f418014324682ecf21c2f881cb58f3df7a54aeacf912e67ed",
+    "sha512": "716bae1e837a75fb64a0183f03148262eb84a288e8c8748bdd46ff4e025148f57402919c601eaa09b06fd8be651ebc24237d442730a58295f7d7b5beffe915d3",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
       "_TZ3000_knoj8lpf",
@@ -15,13 +15,13 @@
     ]
   },
   {
-    "fileName": "tlc_switch-1.1.3-23cdd979-from_tuya.zigbee",
+    "fileName": "tlc_switch-1.1.3-c0f96806-from_tuya.zigbee",
     "fileVersion": 4294967295,
     "fileSize": 182210,
-    "url": "https://github.com/fantomc/tuya-zigbee-switch/raw/045059de5abfe477ab1cd1528dedf3f81d5a4910/bin/router/MODULE_IHSENO_TS0004/tlc_switch-1.1.3-23cdd979-from_tuya.zigbee",
+    "url": "https://github.com/fantomc/tuya-zigbee-switch/raw/refs/heads/main/bin/router/MODULE_IHSENO_TS0004/tlc_switch-1.1.3-c0f96806-from_tuya.zigbee",
     "imageType": 54179,
     "manufacturerCode": 4417,
-    "sha512": "f06aaa8a29c607f6a870185e5fa41e1edea2c66dbecbb210abec0e43953b35a2f69ab0acc1c83f0de087847fb636984cbadbf0bb208f99ff46920778ca5a86d8",
+    "sha512": "f09cb323fba96bfed759d4046ef59dc77b5f09992881ed412e6573cb254d976c645332d92a9d41a2ad534dcb795c1cc42a08e134c80349e50049d441040136d5",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
       "_TZ3000_knoj8lpf",
@@ -30,13 +30,13 @@
     ]
   },
   {
-    "fileName": "tlc_switch-1.1.3-23cdd979.zigbee",
+    "fileName": "tlc_switch-1.1.3-c0f96806.zigbee",
     "fileVersion": 285421568,
     "fileSize": 182226,
-    "url": "https://github.com/fantomc/tuya-zigbee-switch/raw/045059de5abfe477ab1cd1528dedf3f81d5a4910/bin/router/REMOTE_TUYA_SWITCH_TS0043_1/tlc_switch-1.1.3-23cdd979.zigbee",
+    "url": "https://github.com/fantomc/tuya-zigbee-switch/raw/refs/heads/main/bin/router/REMOTE_TUYA_SWITCH_TS0043_1/tlc_switch-1.1.3-c0f96806.zigbee",
     "imageType": 45637,
     "manufacturerCode": 4417,
-    "sha512": "e96adae81ce1b0597a0329d2fdc7b7f60af2a0d17388d0649864f2531d7624ceb3eac26476d1ec26cc2efcfa20ebd42e31d788fe618daae01244da432cabdadf",
+    "sha512": "8184f0df4c3905cfb5a09a3921b49c2f5338c9087bc57b411f102de78f573fbafe368a895e578e4ada9e1df84ea0ea244d5dbfd90af853cf8f3fc2ecf3caa31b",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
       "_TZ3000_sj7jbgks",
@@ -44,13 +44,13 @@
     ]
   },
   {
-    "fileName": "tlc_switch-1.1.3-23cdd979-from_tuya.zigbee",
+    "fileName": "tlc_switch-1.1.3-c0f96806-from_tuya.zigbee",
     "fileVersion": 4294967295,
     "fileSize": 182226,
-    "url": "https://github.com/fantomc/tuya-zigbee-switch/raw/045059de5abfe477ab1cd1528dedf3f81d5a4910/bin/router/REMOTE_TUYA_SWITCH_TS0043_1/tlc_switch-1.1.3-23cdd979-from_tuya.zigbee",
+    "url": "https://github.com/fantomc/tuya-zigbee-switch/raw/refs/heads/main/bin/router/REMOTE_TUYA_SWITCH_TS0043_1/tlc_switch-1.1.3-c0f96806-from_tuya.zigbee",
     "imageType": 54179,
     "manufacturerCode": 4417,
-    "sha512": "d68cd345ec90bce466ee7c3a491eb3ff57bd20214d18e98ccfc4eaa4fa9a9350de7565527c7b02e33f67d0177bc68ee525395ea2be900560b84c12a93614969b",
+    "sha512": "3d5121bdbc664c1ef6dacc617c050953e53ef96ae79df226d05a22801f1e80ebf6abc4cb44fcd6d5132cef7562f1858d882e1f09a574d7d6746aab8d8bc06eac",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
       "_TZ3000_sj7jbgks",
@@ -58,13 +58,13 @@
     ]
   },
   {
-    "fileName": "tlc_switch-1.1.3-23cdd979.zigbee",
+    "fileName": "tlc_switch-1.1.3-c0f96806.zigbee",
     "fileVersion": 285421568,
     "fileSize": 190858,
-    "url": "https://github.com/fantomc/tuya-zigbee-switch/raw/045059de5abfe477ab1cd1528dedf3f81d5a4910/bin/router/REMOTE_TUYA_TS0043/tlc_switch-1.1.3-23cdd979.zigbee",
+    "url": "https://github.com/fantomc/tuya-zigbee-switch/raw/refs/heads/main/bin/router/REMOTE_TUYA_TS0043/tlc_switch-1.1.3-c0f96806.zigbee",
     "imageType": 43577,
     "manufacturerCode": 4169,
-    "sha512": "4ff760b23082dd08de4a2bac4c7b2eb690ed825ea9fc675efadd1b7fab9b02d7b4483062629fcdb55dbed4457ef786676d5512d0100f0f878ce8d93d64e214b9",
+    "sha512": "6f3f73869003c059e05066f71027710d94bbc12746cb586a6f5e62d086b2a048c884d3be636ef868fde6080ecdd78abd7d082b99e3b723a916d7c6ae9c8ed508",
     "otaHeaderString": "Custom zigbee firmware\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
       "_TZ3000_wkai3ga5",
@@ -72,13 +72,13 @@
     ]
   },
   {
-    "fileName": "tlc_switch-1.1.3-23cdd979.zigbee",
+    "fileName": "tlc_switch-1.1.3-c0f96806.zigbee",
     "fileVersion": 285421568,
     "fileSize": 190822,
-    "url": "https://github.com/fantomc/tuya-zigbee-switch/raw/045059de5abfe477ab1cd1528dedf3f81d5a4910/bin/router/ZS3L_ROUTER/tlc_switch-1.1.3-23cdd979.zigbee",
+    "url": "https://github.com/fantomc/tuya-zigbee-switch/raw/refs/heads/main/bin/router/ZS3L_ROUTER/tlc_switch-1.1.3-c0f96806.zigbee",
     "imageType": 43577,
     "manufacturerCode": 4169,
-    "sha512": "3a736ed5b68268d9ad5f47ca94a77de8325f397622032184b47637add1778be6d73dd0d47d7de6f5854979d7978cf18ad7a9d31d6800459c99942560f3ed56f1",
+    "sha512": "28be6d6c2adb066c153d0d3d3db12fdf5deaf04b3bbd0aca2374161b3fb67c5016ba01447c23b307f295de7b3532aa1f3ed99a58965e9cc71614e983e3bb89a8",
     "otaHeaderString": "Custom zigbee firmware\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
       "ROUTER",
