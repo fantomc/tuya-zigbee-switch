@@ -139,7 +139,7 @@ REMOTE_SENSOR:
   tuya_module: ZT3L
   mcu_family: Telink
   mcu: TLSR8258
-  config_str: sensor;SENSOR;BC0u;LB4i;
+  config_str: sensor;SENSOR;SC0u;IB4i;M;
   alt_config_str: null
   old_manufacturer_names: null
   old_zb_models: null
