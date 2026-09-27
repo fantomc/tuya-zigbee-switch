@@ -1,16 +1,16 @@
 [
   {
-    "fileName": "tlc_switch-1.1.3-ba4c2260-forced.zigbee",
+    "fileName": "tlc_switch-1.1.3-a2a34fc3-forced.zigbee",
     "fileVersion": 4294967295,
-    "fileSize": 151650,
-    "url": "https://github.com/fantomc/tuya-zigbee-switch/raw/071615faec2a182dd467f3be5e257086f7ebe9fa/bin/end_device/REMOTE_TUYA_SWITCH_TS0043_1_END_DEVICE/tlc_switch-1.1.3-ba4c2260-forced.zigbee",
+    "fileSize": 151618,
+    "url": "https://github.com/fantomc/tuya-zigbee-switch/raw/refs/heads/main/bin/end_device/REMOTE_SENSOR_END_DEVICE/tlc_switch-1.1.3-a2a34fc3-forced.zigbee",
     "imageType": 45637,
     "manufacturerCode": 4417,
-    "sha512": "d0855c52de0cc53845fa4640050241ef425618a109eb5d558fea44f73408ec39eb10a6d1ff87eea01449f5a3a9ac44df9507c825c26069a2c54060e37f22448e",
+    "sha512": "c73f206503bea535a3b0590eeee7387eb573ff00aa091f77656fe1b3b80db11476a06790a65a1c698733794dc8b803d887259aab2a2b3749eaddae8b06d6f838",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
-      "_TZ3000_sj7jbgks",
-      "sj7jbgks"
+      "SENSOR",
+      "sensor"
     ]
   }
 ]

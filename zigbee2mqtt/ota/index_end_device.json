@@ -1,30 +1,30 @@
 [
   {
-    "fileName": "tlc_switch-1.1.3-ba4c2260.zigbee",
+    "fileName": "tlc_switch-1.1.3-a2a34fc3.zigbee",
     "fileVersion": 285421568,
-    "fileSize": 151650,
-    "url": "https://github.com/fantomc/tuya-zigbee-switch/raw/071615faec2a182dd467f3be5e257086f7ebe9fa/bin/end_device/REMOTE_TUYA_SWITCH_TS0043_1_END_DEVICE/tlc_switch-1.1.3-ba4c2260.zigbee",
+    "fileSize": 151618,
+    "url": "https://github.com/fantomc/tuya-zigbee-switch/raw/refs/heads/main/bin/end_device/REMOTE_SENSOR_END_DEVICE/tlc_switch-1.1.3-a2a34fc3.zigbee",
     "imageType": 45637,
     "manufacturerCode": 4417,
-    "sha512": "44af5455f267e2d8bbc239adebd197968a1997172e14cda28efae6dc5cde92aa0955040c6858b3ceb9a0cfc043af8c9af0712c7021e09435f9127efac0d90087",
+    "sha512": "18af624851f27407f71a51da29c0c6bcd32c26963c939b66637ab6d4c078a2b6f83e40e5feb942823115f8aadf750a526bcd4a485aeb96c81f596ed9e93e2b70",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
-      "_TZ3000_sj7jbgks",
-      "sj7jbgks"
+      "SENSOR",
+      "sensor"
     ]
   },
   {
-    "fileName": "tlc_switch-1.1.3-ba4c2260-from_tuya.zigbee",
+    "fileName": "tlc_switch-1.1.3-a2a34fc3-from_tuya.zigbee",
     "fileVersion": 4294967295,
-    "fileSize": 151650,
-    "url": "https://github.com/fantomc/tuya-zigbee-switch/raw/071615faec2a182dd467f3be5e257086f7ebe9fa/bin/end_device/REMOTE_TUYA_SWITCH_TS0043_1_END_DEVICE/tlc_switch-1.1.3-ba4c2260-from_tuya.zigbee",
+    "fileSize": 151618,
+    "url": "https://github.com/fantomc/tuya-zigbee-switch/raw/refs/heads/main/bin/end_device/REMOTE_SENSOR_END_DEVICE/tlc_switch-1.1.3-a2a34fc3-from_tuya.zigbee",
     "imageType": 54179,
     "manufacturerCode": 4417,
-    "sha512": "bf064f2b560def05c5295e08a40e2f39d77e627728d9e036a3547e47307da4e29afef0873ad6df52f5a8a53064d962b7aa9c27a6b1586898d22e2a8eaa008a53",
+    "sha512": "c756946851cf001e198571087339e0e16106ee2f5d32898bf6ea678f720dcd35abe4cdd5fbd5602e9a1eb2f25a2be0ee4427bd39561a04e6eba7d998c362b812",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
-      "_TZ3000_sj7jbgks",
-      "sj7jbgks"
+      "SENSOR",
+      "sensor"
     ]
   }
 ]
