@@ -119,7 +119,7 @@ REMOTE_TUYA_SWITCH_TS0043_1:
   stock_manufacturer_id: 4417
   stock_image_type: 54179
   firmware_image_type: 45637
-  build: yes
+  build: no
   status: fully_supported
   info: Supported
   threads: null
